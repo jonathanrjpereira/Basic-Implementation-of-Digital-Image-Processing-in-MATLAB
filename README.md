@@ -1,4 +1,5 @@
-# Basic Implementation of Digital Image Processing in MATLAB
+![Basic Implementation of Digital Image Processing in MATLAB](https://github.com/jonathanrjpereira/Basic-Implementation-of-Digital-Image-Processing-in-MATLAB/blob/master/Banner2.svg)
+
 
 Uses MatLab's Image Processing & Computer Vision Toolbox
 
@@ -28,7 +29,7 @@ Program codes can be run by pressing 'F5'.
     * [Dilation & Erosion](https://github.com/jonathanrjpereira/Basic-Implementation-of-Digital-Image-Processing-in-MATLAB/blob/master/Morphology/dilero.m)
   * [Discrete Fourier Transformation (DFT)](https://github.com/jonathanrjpereira/Basic-Implementation-of-Digital-Image-Processing-in-MATLAB/tree/master/Discrete%20Fourier%20Transformation)
   * [Improved Gray Scale Quantization (IGS)](https://github.com/jonathanrjpereira/Basic-Implementation-of-Digital-Image-Processing-in-MATLAB/tree/master/Improved%20Grayscale%20Quantization)  
-  
+
 ## Contributing
 Are you a programmer, engineer or designer who has a great idea for another Basic DIP Implementation? Maybe you're just a beginner or you've spotted a bug? Feel free to grab our code from Github and tinker with it. Don't forget to smash that Pull Request button.
 
